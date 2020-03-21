@@ -1,0 +1,32 @@
+<MovieLibrary>
+    <movie>
+        <title>Star Wars: Episode V - The Empire Strikes Back</title>
+        <ReleaseYear>1980</ReleaseYear>
+        <RunTime>2hr 4min</RunTime>
+        <cast>
+            <Luke role="Luke Skywalker">Mark Hamill</Luke>
+            <Han role="Han Solo">Harrison Ford</Han>
+            <Leia role="Princess Leia">Carrie Fisher</Leia>
+        </cast>
+    </movie>
+    <movie>
+        <title>Memento</title>
+        <ReleaseYear>2001</ReleaseYear>
+        <RunTime>1hr 53min</RunTime>
+        <cast>
+            <Leonard role="Leonard">Guy Pearce</Leonard>
+            <Natalie role="Natalie">Carrie-Anne Moss</Natalie>
+            <Teddy role="Teddy">Joe Pantoliano</Teddy>
+        </cast>
+    </movie>
+    <movie>
+        <title>Interstellar</title>
+        <ReleaseYear>2014</ReleaseYear>
+        <RunTime>2hr 49min</RunTime>
+        <cast>
+            <Cooper role="Cooper">Matthew McConaughey</Cooper>
+            <Murph10 role="Murph 10 yrs">Mackenzie Foy</Murph10>
+            <Donald role="Donald">John Lithgow</Donald>
+        </cast>
+    </movie>
+</MovieLibrary>
